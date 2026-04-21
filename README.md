@@ -6,9 +6,7 @@
 </h1>
 <br>
 🎓 IT Student in Software Development
-
 📍 Cape Town, South Africa
-
 💻 Asipiring Software Developer/Software Engineer
 
 
