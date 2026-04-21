@@ -1,4 +1,4 @@
-# Hi there 👋, I am Ayakha Mangoloti
+# Hi there 👋, I'm Ayakha Mangoloti
 
 🎓 IT Student in Software Development
 📍 Cape Town, South Africa
