@@ -5,7 +5,8 @@
   Hi there👋, I'm Ayakha Mangoloti
 </h1>
 <br>
-## 💻 About Me
+## 💻About Me
+
 🎓 IT Student in Software Development
 
 📍 Cape Town, South Africa
