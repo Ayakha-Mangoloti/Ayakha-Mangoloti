@@ -1,4 +1,5 @@
-<img src="downloads/banner.png" alt="My Github Banner" width="100%" />
+<img width="100%" alt="banner png" src="https://github.com/user-attachments/assets/2543543e-f91d-45bf-8c7f-505134465559" />
+
 # Hi there 👋, I'm Ayakha Mangoloti
 
 🎓 IT Student in Software Development
