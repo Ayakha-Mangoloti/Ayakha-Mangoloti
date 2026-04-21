@@ -1,6 +1,6 @@
 <p align="center">
-<img width="100%" alt="banner png" src="https://github.com/user-attachments/assets/2543543e-f91d-45bf-8c7f-505134465559" />
-</p>p
+<img width="100%" alt="banner png" src="https://github.com/user-attachments/assets/f0a3526b-7cab-469d-86ba-095a89b896df" />
+</p>
 # Hi there 👋, I'm Ayakha Mangoloti
 
 🎓 IT Student in Software Development
