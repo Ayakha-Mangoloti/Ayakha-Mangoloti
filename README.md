@@ -4,6 +4,6 @@
 
 📍 Cape Town, South Africa
 
-💻 Asipiring Software Developer/Soft Engineer
+💻 Asipiring Software Developer/Software Engineer
 
 
