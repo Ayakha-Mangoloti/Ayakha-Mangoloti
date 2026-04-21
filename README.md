@@ -2,6 +2,6 @@
 
 🎓 IT Student in Software Development
 📍 Cape Town, South Africa
-💻 Asipiring Software Developer
+💻 Asipiring Software Developer/Soft Engineer
 
 
