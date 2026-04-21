@@ -5,11 +5,19 @@
   Hi there👋, I'm Ayakha Mangoloti
 </h1>
 <br>
+
 🎓 IT Student in Software Development
 
 📍 Cape Town, South Africa
 
 💻 Asipiring Software Developer/Software Engineer
+<br>
+## Tech Stack
+-Java
+-HTML
+-CSS
+-Java Script
+-Git & GitHub
 
 
 
