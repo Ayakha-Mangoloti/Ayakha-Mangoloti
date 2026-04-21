@@ -10,9 +10,12 @@
 
 🎓 IT Student in Software Development
 
+💻 Asipiring Software Developer/Software Engineer
+
+🌴 Currently building real-world projects
+
 📍 Cape Town, South Africa
 
-💻 Asipiring Software Developer/Software Engineer
 
 ### Tech Stack
 -Java
